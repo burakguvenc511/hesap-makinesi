@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xxhdpi_button_text_size">30dp</dimen>
+    <dimen name="xxhdpi_text_size">40dp</dimen>
+    <dimen name="xxhdpi_margin_boslugu">2dp</dimen>
+    <dimen name="xxhdpi_button_margin_boslugu">2dp</dimen>
+    <dimen name="xxhdpi_text_margin_boslugu">16dp</dimen>
+
+    <dimen name="xhdpi_button_text_size">30dp</dimen>
+    <dimen name="xhdpi_text_size">40dp</dimen>
+    <dimen name="xhdpi_margin_boslugu">1dp</dimen>
+    <dimen name="xhdpi_button_margin_boslugu">1dp</dimen>
+    <dimen name="xhdpi_text_margin_boslugu">16dp</dimen>
+
+    <dimen name="hdpi_button_text_size">30dp</dimen>
+    <dimen name="hdpi_text_size">40dp</dimen>
+    <dimen name="hdpi_margin_boslugu">2dp</dimen>
+    <dimen name="hdpi_button_margin_boslugu">2dp</dimen>
+    <dimen name="hdpi_text_margin_boslugu">2dp</dimen>
+
+    <dimen name="mdpi_button_text_size">40dp</dimen>
+    <dimen name="mdpi_text_size">50dp</dimen>
+    <dimen name="mdpi_margin_boslugu">4dp</dimen>
+    <dimen name="mdpi_button_margin_boslugu">4dp</dimen>
+    <dimen name="mdpi_text_margin_boslugu">8dp</dimen>
+
+    <dimen name="mdpi_land_button_text_size">40dp</dimen>
+    <dimen name="mdpi_land_text_size">50dp</dimen>
+    <dimen name="mdpi_land_margin_boslugu">1dp</dimen>
+    <dimen name="mdpi_land_button_margin_boslugu">1dp</dimen>
+    <dimen name="mdpi_land_text_margin_boslugu">1dp</dimen>
+
+    <dimen name="ldpi_button_text_size">20dp</dimen>
+    <dimen name="ldpi_text_size">30dp</dimen>
+    <dimen name="ldpi_margin_boslugu">2dp</dimen>
+    <dimen name="ldpi_button_margin_boslugu">2dp</dimen>
+    <dimen name="ldpi_text_margin_boslugu">2dp</dimen>
+</resources>
